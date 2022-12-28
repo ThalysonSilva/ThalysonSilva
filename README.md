@@ -1,10 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Thalyson+Silva;I'm+26+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-- 🔭 Hoje trabalho como Auxiliar de TI na empresa Norteng Engenharia
-- 🌱 Fazendo graduação tecnólogo de Analise e Desenvolvimento de Sistemas / 3º Período⌛
-- 😄 Pronouns: ele/dele
+<br>
+<br>
 
  <div align="center">
   <a href="https://github.com/ThalysonSilva">
