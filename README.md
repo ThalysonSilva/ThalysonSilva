@@ -1,4 +1,6 @@
-### Olá! Eu sou Thalyson Silva
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Thalyson+Silva;I'm+26+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 - 🔭 Hoje trabalho como Auxiliar de TI na empresa Norteng Engenharia
 - 🌱 Fazendo graduação tecnólogo de Analise e Desenvolvimento de Sistemas / 3º Período⌛
@@ -24,5 +26,6 @@
   <a href="https://www.linkedin.com/in/thalyson-silva-381ba61b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
+ 
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
